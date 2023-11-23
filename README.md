@@ -33,11 +33,10 @@ ce projet se focalise sur l'exploitation des informations fournies par Parcoursu
 
 #  Requêtes d'Essai sur les Tables:**
 
-    Formuler des requêtes SQL simples pour s'assurer que les données ont été correctement insérées dans les tables.
-    Explorer la base de données à l'aide de requêtes de sélection, filtrage, et agrégation.
+    1-requête qui récupère l'année de session, le nom de la formation et le pourcentage de candidats pour chaque formation à l'Université de Nantes.
+    2-requête qui sélectionne le nom du département, le nom de l'établissement et le nom de la formation pour toutes les formations dans le département de l'Isère.
 
 
-#  Conclusion**
 
   
 
